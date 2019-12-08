@@ -1,3 +1,5 @@
+This is a list of most common git commands 
+
 git init . - to init repository locally
 git clone [myrepo] - to clone the repository from github
 git  add .  - to add all the files in the current directory !!notice the . (dot)!!!!
