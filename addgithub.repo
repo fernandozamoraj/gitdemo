@@ -1,0 +1,8 @@
+Steps to create a github repo and push changes up
+
+Create repo with read me
+Execute git clone to clone the repo
+Change the code
+Use git add . to add your changes
+Use git commit to commit your changes
+Use git push to push to the cloud (github)
