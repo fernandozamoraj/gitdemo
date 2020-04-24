@@ -1,7 +1,7 @@
 This is a list of most common git commands 
 
-...* git init . - to init repository locally
-...*  git clone [myrepo] - to clone the repository from github
+###git init . - to init repository locally
+###git clone [myrepo] - to clone the repository from github
 ...*  git  add .  - to add all the files in the current directory !!notice the . (dot)!!!!
 ...*  git diff - to diff you current changes it already added use git diff --cached
 ...*  git status - to view the current status of your directory
